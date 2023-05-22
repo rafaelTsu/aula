@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 int main(){
-    int a = 10;
-    int b = 20;
+    int a = 100;
+    int b = 200;
 
-    printf("%d", a+b);
+    printf("A soma é igual a: %d", a+b);
 }
